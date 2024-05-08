@@ -1,0 +1,7 @@
+To use the pre-trained checkpoints, place them directly in the models folder. 
+The structure should be as below:
+
+models/
+├─ red.ckpt
+├─ green.ckpt
+├─ blue.ckpt
